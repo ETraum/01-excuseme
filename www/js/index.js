@@ -23,7 +23,9 @@ var excuses = [
   "It's raining outside.",
   "My in-laws are in town.",
   "My internet is down.",
-  "My spoon is too big."
+  "My spoon is too big.",
+  "My cat threw up on it",
+  "My cat tore it up"
 ];
 
 // From: https://github.com/lodash/lodash/blob/master/shuffle.js
